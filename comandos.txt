@@ -1,0 +1,8 @@
+ls => Lista de directorios y archivos
+cd => Cambiar de directorio
+clear => Limpia terminal
+
+git init => Iniciar repositorio de git
+git status => Conocer el status del repositorio
+git add => Agregar archivo a futuro commit
+git commit -m "mensaje" => Agregar commit con descripción
