@@ -6,3 +6,17 @@ git init => Iniciar repositorio de git
 git status => Conocer el status del repositorio
 git add => Agregar archivo a futuro commit
 git commit -m "mensaje" => Agregar commit con descripción
+git remote add origin "sitio" =>
+git push origin master
+
+
+0) git status
+1) git add index.html
+2) git status
+3) git commit -m "hice un cambio"
+4) git push origin master
+
+
+a) Agregar un formulario de contacto (commit)
+b) Agregar más información sobre ustedes (commit)
+c) Conectar a otro html (commit)
